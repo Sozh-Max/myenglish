@@ -29,7 +29,7 @@ window.onload = function() {
 
 		downloadJson() {
 			var xhr = new XMLHttpRequest();
-			xhr.open('GET', '../json/words.json', true);
+			xhr.open('GET', './json/words.json', true);
 			xhr.onload = function (e) {
 				if (xhr.readyState === 4) {
 					if (xhr.status === 200) {
