@@ -1,0 +1,108 @@
+{
+	"Maks" : {
+		"part_1" : [
+			{
+				"word" : "Attention",
+				"transcription" : "əˈten·ʃən"
+			},
+			{
+				"word" : "Between",
+				"transcription" : "bɪˈtwin"
+			},
+			{
+				"word" : "Choose",
+				"transcription" : "tʃuz"
+			},
+			{
+				"word" : "Direction",
+				"transcription" : "dəˈrek·ʃən"
+			},
+			{
+				"word" : "Establish",
+				"transcription" : "ɪˈstæb·lɪʃ"
+			},
+			{
+				"word" : "Forest",
+				"transcription" : "fɔr·əst"
+			},
+			{
+				"word" : "Government",
+				"transcription" : "ɡʌv·ərn·mənt"
+			},
+			{
+				"word" : "Hundred",
+				"transcription" : "hʌn·drɪd"
+			},
+			{
+				"word" : "Introduce",
+				"transcription" : "ɪn·trəˈdus"
+			},
+			{
+				"word" : "Join",
+				"transcription" : "dʒɔɪn"
+			},
+			{
+				"word" : "Knock",
+				"transcription" : "nɑk"
+			},
+			{
+				"word" : "Letter",
+				"transcription" : "let̬·ər"
+			},
+			{
+				"word" : "Mouth",
+				"transcription" : "mɑʊθ"
+			},
+			{
+				"word" : "Necessary",
+				"transcription" : "ˈnes·əˌser·i"
+			},
+			{
+				"word" : "Opposite",
+				"transcription" : "ˈɑp·ə·zɪt"
+			},
+			{
+				"word" : "Produce",
+				"transcription" : "prəˈdus"
+			},
+			{
+				"word" : "Quarter",
+				"transcription" : "ˈkwɔr·t̬ər"
+			},
+			{
+				"word" : "Rain",
+				"transcription" : "reɪn"
+			},
+			{
+				"word" : "Suppose",
+				"transcription" : "səˈpoʊz"
+			},
+			{
+				"word" : "Toward",
+				"transcription" : "toʊrd"
+			},
+			{
+				"word" : "Usual",
+				"transcription" : "ˈju·ʒu·əl"
+			},
+			{
+				"word" : "Wash",
+				"transcription" : "wɑʃ"
+			}
+		],
+		"part_2" : [
+			{
+				"word" : "Almost",
+				"transcription" : "ɔlˈmoʊst"
+			},
+			{
+				"word" : "Behind",
+				"transcription" : "bɪˈhɑɪnd"
+			},
+			{
+				"word" : "Condition",
+				"transcription" : "kənˈdɪʃ·ən"
+			}
+		]
+	}
+}
