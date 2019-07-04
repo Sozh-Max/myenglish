@@ -214,6 +214,7 @@ window.onload = function() {
 					<div class="card_context">
 						<div class="card_title">${item.word}</div>
 						<div class="card_transcription">${item.transcription}</div>
+						<div class="card_synonym">${item.synonym}</div>
 					</div>
 				</div>
 				`;

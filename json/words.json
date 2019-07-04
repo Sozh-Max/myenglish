@@ -1,107 +1,217 @@
 {
 	"Maks" : {
-		"part_1" : [
+		"lesson_1" : [
 			{
 				"word" : "Attention",
-				"transcription" : "əˈten·ʃən"
+				"transcription" : "əˈten·ʃən",
+				"synonym" : "Heedful, Caution"
 			},
 			{
 				"word" : "Between",
-				"transcription" : "bɪˈtwin"
+				"transcription" : "bɪˈtwin",
+				"synonym" : "Among, Amid, Inter, Twixt"
 			},
 			{
 				"word" : "Choose",
-				"transcription" : "tʃuz"
+				"transcription" : "tʃuz",
+				"synonym" : "Select"
 			},
 			{
 				"word" : "Direction",
-				"transcription" : "dəˈrek·ʃən"
+				"transcription" : "dəˈrek·ʃən",
+				"synonym" : "Way, Orientation"
 			},
 			{
 				"word" : "Establish",
-				"transcription" : "ɪˈstæb·lɪʃ"
+				"transcription" : "ɪˈstæb·lɪʃ",
+				"synonym" : ""
 			},
 			{
 				"word" : "Forest",
-				"transcription" : "fɔr·əst"
+				"transcription" : "fɔr·əst",
+				"synonym" : "Tree, Wood"
 			},
 			{
 				"word" : "Government",
-				"transcription" : "ɡʌv·ərn·mənt"
+				"transcription" : "ɡʌv·ərn·mənt",
+				"synonym" : "Administration, Cabinet, Ministers"
 			},
 			{
 				"word" : "Hundred",
-				"transcription" : "hʌn·drɪd"
+				"transcription" : "hʌn·drɪd",
+				"synonym" : "Number"
 			},
 			{
 				"word" : "Introduce",
-				"transcription" : "ɪn·trəˈdus"
+				"transcription" : "ɪn·trəˈdus",
+				"synonym" : "Present, Enter, Inject"
 			},
 			{
 				"word" : "Join",
-				"transcription" : "dʒɔɪn"
+				"transcription" : "dʒɔɪn",
+				"synonym" : "Get in, Unite"
 			},
 			{
 				"word" : "Knock",
-				"transcription" : "nɑk"
+				"transcription" : "nɑk",
+				"synonym" : "Hit"
 			},
 			{
 				"word" : "Letter",
-				"transcription" : "let̬·ər"
+				"transcription" : "let̬·ər",
+				"synonym" : "Message, Symbol"
 			},
 			{
 				"word" : "Mouth",
-				"transcription" : "mɑʊθ"
+				"transcription" : "mɑʊθ",
+				"synonym" : ""
 			},
 			{
 				"word" : "Necessary",
-				"transcription" : "ˈnes·əˌser·i"
+				"transcription" : "ˈnes·əˌser·i",
+				"synonym" : "Needfull"
 			},
 			{
 				"word" : "Opposite",
-				"transcription" : "ˈɑp·ə·zɪt"
+				"transcription" : "ˈɑp·ə·zɪt",
+				"synonym" : ""
 			},
 			{
 				"word" : "Produce",
-				"transcription" : "prəˈdus"
+				"transcription" : "prəˈdus",
+				"synonym" : "Create, Make"
 			},
 			{
 				"word" : "Quarter",
-				"transcription" : "ˈkwɔr·t̬ər"
+				"transcription" : "ˈkwɔr·t̬ər",
+				"synonym" : ""
 			},
 			{
 				"word" : "Rain",
-				"transcription" : "reɪn"
+				"transcription" : "reɪn",
+				"synonym" : "Shower"
 			},
 			{
 				"word" : "Suppose",
-				"transcription" : "səˈpoʊz"
+				"transcription" : "səˈpoʊz",
+				"synonym" : "Think, Assume"
 			},
 			{
 				"word" : "Toward",
-				"transcription" : "toʊrd"
+				"transcription" : "toʊrd",
+				"synonym" : "To, In the direction"
 			},
 			{
 				"word" : "Usual",
-				"transcription" : "ˈju·ʒu·əl"
+				"transcription" : "ˈju·ʒu·əl",
+				"synonym" : "Common, Regular, Normal"
 			},
 			{
 				"word" : "Wash",
-				"transcription" : "wɑʃ"
+				"transcription" : "wɑʃ",
+				"synonym" : "Erase, Bathe"
 			}
 		],
-		"part_2" : [
+		"lesson_2" : [
 			{
 				"word" : "Almost",
-				"transcription" : "ɔlˈmoʊst"
+				"transcription" : "ɔlˈmoʊst",
+				"synonym" : "Nearly, About, "
 			},
 			{
 				"word" : "Behind",
-				"transcription" : "bɪˈhɑɪnd"
+				"transcription" : "bɪˈhɑɪnd",
+				"synonym" : "After, "
 			},
 			{
 				"word" : "Condition",
-				"transcription" : "kənˈdɪʃ·ən"
+				"transcription" : "kənˈdɪʃ·ən",
+				"synonym" : "Status, Fortune"
+			},
+			{
+				"word" : "Among",
+				"transcription" : "əˈmʌŋ",
+				"synonym" : "Between, Inter"
+			},
+			{
+				"word" : "Tree",
+				"transcription" : "triː",
+				"synonym" : "Wood"
+			},
+			{
+				"word" : "Which",
+				"transcription" : "wɪtʃ",
+				"synonym" : "Who"
+			},
+			{
+				"word" : "Thing",
+				"transcription" : "θɪŋ",
+				"synonym" : "Stuff, Materials, Tackle"
+			},
+			{
+				"word" : "Privileges",
+				"transcription" : "ˈprɪv.əl.ɪdʒ",
+				"synonym" : "Prerogative"
+			},
+			{
+				"word" : "Manage",
+				"transcription" : "ˈmæn.ɪdʒ",
+				"synonym" : "Control, Govern, Lead"
+			},
+			{
+				"word" : "Control",
+				"transcription" : "kənˈtrəʊl",
+				"synonym" : "Manage, Monitoring, Examination"
+			},
+			{
+				"word" : "Connect",
+				"transcription" : "kəˈnekt",
+				"synonym" : "Unite, Bind, Merge"
+			},
+			{
+				"word" : "Adjective",
+				"transcription" : "ˈædʒ.ek.tɪv",
+				"synonym" : "ПРИЛАГАТЕЛЬНОЕ"
+			},
+			{
+				"word" : "Noun",
+				"transcription" : "naʊn",
+				"synonym" : "СУЩЕСТВИТЕЛЬНОЕ"
+			},
+			{
+				"word" : "Part",
+				"transcription" : "pɑːt",
+				"synonym" : "Portion, Role, Member"
+			},
+			{
+				"word" : "Sky",
+				"transcription" : "skaɪ",
+				"synonym" : "Heaven, Weather"
+			},
+			{
+				"word" : "Consider",
+				"transcription" : "kənˈsɪd.ər",
+				"synonym" : "Review, See"
+			},
+			{
+				"word" : "Movement",
+				"transcription" : "ˈmuːv.mənt",
+				"synonym" : "Move, Transfer, Change"
+			},
+			{
+				"word" : "Definition",
+				"transcription" : "def.ɪˈnɪʃ.ən",
+				"synonym" : "Description"
+			},
+			{
+				"word" : "Revise",
+				"transcription" : "rɪˈvaɪz",
+				"synonym" : "Verify, Review, Check"
+			},
+			{
+				"word" : "Exercise",
+				"transcription" : "ˈek.sə.saɪz",
+				"synonym" : "Practice, Training"
 			}
 		]
 	}

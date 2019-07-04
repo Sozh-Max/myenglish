@@ -244,6 +244,12 @@ body[data-theme="dark"] {
 .card_block .card_transcription {
   color: #ff0000;
   font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.card_block .card_synonym {
+  color: #5e5eff;
+  font-size: 20px;
 }
 
 .card_block .answer_result {
