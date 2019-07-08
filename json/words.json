@@ -49,7 +49,7 @@
 			{
 				"word" : "Join",
 				"transcription" : "dʒɔɪn",
-				"synonym" : "Get in, Unite"
+				"synonym" : "Get in, Unite, Merge"
 			},
 			{
 				"word" : "Knock",
@@ -116,17 +116,17 @@
 			{
 				"word" : "Almost",
 				"transcription" : "ɔlˈmoʊst",
-				"synonym" : "Nearly, About, "
+				"synonym" : "Nearly, About"
 			},
 			{
 				"word" : "Behind",
 				"transcription" : "bɪˈhɑɪnd",
-				"synonym" : "After, "
+				"synonym" : "At the back "
 			},
 			{
 				"word" : "Condition",
 				"transcription" : "kənˈdɪʃ·ən",
-				"synonym" : "Status, Fortune"
+				"synonym" : "Status, Mood"
 			},
 			{
 				"word" : "Among",
@@ -151,7 +151,7 @@
 			{
 				"word" : "Privileges",
 				"transcription" : "ˈprɪv.əl.ɪdʒ",
-				"synonym" : "Prerogative"
+				"synonym" : "Prerogative, bonus"
 			},
 			{
 				"word" : "Manage",
@@ -191,7 +191,7 @@
 			{
 				"word" : "Consider",
 				"transcription" : "kənˈsɪd.ər",
-				"synonym" : "Review, See"
+				"synonym" : "Review, See, Suppose"
 			},
 			{
 				"word" : "Movement",
@@ -212,6 +212,108 @@
 				"word" : "Exercise",
 				"transcription" : "ˈek.sə.saɪz",
 				"synonym" : "Practice, Training"
+			}
+		],
+		"lesson_3" : [
+			{
+				"word" : "Anything",
+				"transcription" : "ˈen.i.θɪŋ",
+				"synonym" : "Something"
+			},
+			{
+				"word" : "Believe",
+				"transcription" : "bɪˈliːv",
+				"synonym" : "Trust"
+			},
+			{
+				"word" : "Concern",
+				"transcription" : "kənˈsɜːn",
+				"synonym" : "Worry"
+			},
+			{
+				"word" : "Describe",
+				"transcription" : "dɪˈskraɪb",
+				"synonym" : "Characterize"
+			},
+			{
+				"word" : "Enough",
+				"transcription" : "ɪˈnʌf",
+				"synonym" : "Fairly"
+			},
+			{
+				"word" : "Forget",
+				"transcription" : "fəˈɡet",
+				"synonym" : ""
+			},
+			{
+				"word" : "Ground",
+				"transcription" : "ɡraʊnd",
+				"synonym" : "Earth"
+			},
+			{
+				"word" : "Hurry",
+				"transcription" : "hʌr.i",
+				"synonym" : ""
+			},
+			{
+				"word" : "Island",
+				"transcription" : "ˈaɪ.lənd",
+				"synonym" : "Islet"
+			},
+			{
+				"word" : "Keep",
+				"transcription" : "kiːp",
+				"synonym" : "Hold"
+			},
+			{
+				"word" : "Lift",
+				"transcription" : "lɪft",
+				"synonym" : "Hoist"
+			},
+			{
+				"word" : "Means",
+				"transcription" : "miːnz",
+				"synonym" : "Method"
+			},
+			{
+				"word" : "Near",
+				"transcription" : "nɪər",
+				"synonym" : "About"
+			},
+			{
+				"word" : "Probable",
+				"transcription" : "prɒb.ə.bəl",
+				"synonym" : "Likely"
+			},
+			{
+				"word" : "Receive",
+				"transcription" : "rɪˈsiːv",
+				"synonym" : "Accept, get"
+			},
+			{
+				"word" : "Statement",
+				"transcription" : "ˈsteɪt.mənt",
+				"synonym" : "Claim"
+			},
+			{
+				"word" : "Through",
+				"transcription" : "θruː",
+				"synonym" : "Across"
+			},
+			{
+				"word" : "Various",
+				"transcription" : "ˈveə.ri.əs",
+				"synonym" : "Different"
+			},
+			{
+				"word" : "Shake",
+				"transcription" : "ʃeɪk",
+				"synonym" : "Vibrate"
+			},
+			{
+				"word" : "Operation",
+				"transcription" : "ˌɒp.ərˈeɪ.ʃən",
+				"synonym" : "Action"
 			}
 		]
 	}
