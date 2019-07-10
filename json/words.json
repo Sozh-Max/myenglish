@@ -253,7 +253,7 @@
 			{
 				"word" : "Hurry",
 				"transcription" : "hʌr.i",
-				"synonym" : ""
+				"synonym" : "To go fast"
 			},
 			{
 				"word" : "Island",
@@ -278,7 +278,7 @@
 			{
 				"word" : "Near",
 				"transcription" : "nɪər",
-				"synonym" : "About"
+				"synonym" : "Close to, Not far from"
 			},
 			{
 				"word" : "Probable",
@@ -314,6 +314,88 @@
 				"word" : "Operation",
 				"transcription" : "ˌɒp.ərˈeɪ.ʃən",
 				"synonym" : "Action"
+			}
+		],
+		"lesson_4" : [
+			{
+				"word" : "Ill",
+				"transcription" : "ɪl",
+				"synonym" : "Badly"
+			},
+			{
+				"word" : "Feel",
+				"transcription" : "fiːl",
+				"synonym" : "Sense, Paerceive"
+			},
+			{
+				"word" : "Accident",
+				"transcription" : "ˈæk.sɪ.dənt",
+				"synonym" : "Crash, Incident"
+			},
+			{
+				"word" : "Bored",
+				"transcription" : "bɔːd",
+				"synonym" : "Miss"
+			},
+			{
+				"word" : "Carriage",
+				"transcription" : "ˈkær.ɪdʒ",
+				"synonym" : "Transport"
+			},
+			{
+				"word" : "Tall",
+				"transcription" : "tɔːl",
+				"synonym" : "High"
+			},
+			{
+				"word" : "Expensive",
+				"transcription" : "ɪkˈspen.sɪv",
+				"synonym" : "Dear, High-priced"
+			},
+			{
+				"word" : "Suit",
+				"transcription" : "suːt",
+				"synonym" : "Costume"
+			},
+			{
+				"word" : "Loud",
+				"transcription" : "laʊd",
+				"synonym" : "Noisy"
+			},
+			{
+				"word" : "Voice",
+				"transcription" : "vɔɪs",
+				"synonym" : ""
+			},
+			{
+				"word" : "Noisy",
+				"transcription" : "nɔɪz",
+				"synonym" : "Loud"
+			},
+			{
+				"word" : "Quiet",
+				"transcription" : "ˈkwaɪ.ət",
+				"synonym" : ""
+			},
+			{
+				"word" : "Thirsty",
+				"transcription" : "ˈθɜː.st",
+				"synonym" : "Hungry"
+			},
+			{
+				"word" : "Nicely",
+				"transcription" : "ˈnaɪs.li",
+				"synonym" : "Well"
+			},
+			{
+				"word" : "Mean",
+				"transcription" : "miːn",
+				"synonym" : ""
+			},
+			{
+				"word" : "Claim",
+				"transcription" : "kleɪm",
+				"synonym" : ""
 			}
 		]
 	}
