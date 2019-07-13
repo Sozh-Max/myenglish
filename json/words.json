@@ -4,398 +4,520 @@
 			{
 				"word" : "Attention",
 				"transcription" : "əˈten·ʃən",
-				"synonym" : "Heedful, Caution"
+				"synonym" : "Heedful, Caution",
+				"link" : "attention.jpg"
 			},
 			{
 				"word" : "Between",
 				"transcription" : "bɪˈtwin",
-				"synonym" : "Among, Amid, Inter, Twixt"
+				"synonym" : "Among, Amid, Inter, Twixt",
+				"link" : "beetween.jpg"
 			},
 			{
 				"word" : "Choose",
 				"transcription" : "tʃuz",
-				"synonym" : "Select"
+				"synonym" : "Select",
+				"link" : "choose.jpg"
 			},
 			{
 				"word" : "Direction",
 				"transcription" : "dəˈrek·ʃən",
-				"synonym" : "Way, Orientation"
+				"synonym" : "Way, Orientation",
+				"link" : "direction.jpg"
 			},
 			{
 				"word" : "Establish",
 				"transcription" : "ɪˈstæb·lɪʃ",
-				"synonym" : ""
+				"synonym" : "",
+				"link" : "establish.jpg"
 			},
 			{
 				"word" : "Forest",
 				"transcription" : "fɔr·əst",
-				"synonym" : "Tree, Wood"
+				"synonym" : "Tree, Wood",
+				"link" : "forest.jpg"
 			},
 			{
 				"word" : "Government",
 				"transcription" : "ɡʌv·ərn·mənt",
-				"synonym" : "Administration, Cabinet, Ministers"
+				"synonym" : "Administration, Cabinet, Ministers",
+				"link" : "government.jpg"
 			},
 			{
 				"word" : "Hundred",
 				"transcription" : "hʌn·drɪd",
-				"synonym" : "Number"
+				"synonym" : "Number",
+				"link" : "hundred.jpg"
 			},
 			{
 				"word" : "Introduce",
 				"transcription" : "ɪn·trəˈdus",
-				"synonym" : "Present, Enter, Inject"
+				"synonym" : "Present, Enter, Inject",
+				"link" : "introduce.jpg"
 			},
 			{
 				"word" : "Join",
 				"transcription" : "dʒɔɪn",
-				"synonym" : "Get in, Unite, Merge"
+				"synonym" : "Get in, Unite, Merge",
+				"link" : "join.jpg"
 			},
 			{
 				"word" : "Knock",
 				"transcription" : "nɑk",
-				"synonym" : "Hit"
+				"synonym" : "Hit",
+				"link" : "knock.jpg"
 			},
 			{
 				"word" : "Letter",
 				"transcription" : "let̬·ər",
-				"synonym" : "Message, Symbol"
+				"synonym" : "Message, Symbol",
+				"link" : "letter.jpg"
 			},
 			{
 				"word" : "Mouth",
 				"transcription" : "mɑʊθ",
-				"synonym" : ""
+				"synonym" : "",
+				"link" : "mouth.jpg"
 			},
 			{
 				"word" : "Necessary",
 				"transcription" : "ˈnes·əˌser·i",
-				"synonym" : "Needfull"
+				"synonym" : "Needfull",
+				"link" : "necessary.jpg"
 			},
 			{
 				"word" : "Opposite",
 				"transcription" : "ˈɑp·ə·zɪt",
-				"synonym" : ""
+				"synonym" : "",
+				"link" : "opposite.jpg"
 			},
 			{
 				"word" : "Produce",
 				"transcription" : "prəˈdus",
-				"synonym" : "Create, Make"
+				"synonym" : "Create, Make",
+				"link" : "produce.jpg"
 			},
 			{
 				"word" : "Quarter",
 				"transcription" : "ˈkwɔr·t̬ər",
-				"synonym" : ""
+				"synonym" : "",
+				"link" : "quarter.jpg"
 			},
 			{
 				"word" : "Rain",
 				"transcription" : "reɪn",
-				"synonym" : "Shower"
+				"synonym" : "Shower",
+				"link" : "rain.jpg"
 			},
 			{
 				"word" : "Suppose",
 				"transcription" : "səˈpoʊz",
-				"synonym" : "Think, Assume"
+				"synonym" : "Think, Assume",
+				"link" : "suppose.jpg"
 			},
 			{
 				"word" : "Toward",
 				"transcription" : "toʊrd",
-				"synonym" : "To, In the direction"
+				"synonym" : "To, In the direction",
+				"link" : "toward.jpg"
 			},
 			{
 				"word" : "Usual",
 				"transcription" : "ˈju·ʒu·əl",
-				"synonym" : "Common, Regular, Normal"
+				"synonym" : "Common, Regular, Normal",
+				"link" : "usual.jpg"
 			},
 			{
 				"word" : "Wash",
 				"transcription" : "wɑʃ",
-				"synonym" : "Erase, Bathe"
+				"synonym" : "Erase, Bathe",
+				"link" : "wash.jpg"
 			}
 		],
 		"lesson_2" : [
 			{
 				"word" : "Almost",
 				"transcription" : "ɔlˈmoʊst",
-				"synonym" : "Nearly, About"
+				"synonym" : "Nearly, About",
+				"link" : "almost.jpg"
 			},
 			{
 				"word" : "Behind",
 				"transcription" : "bɪˈhɑɪnd",
-				"synonym" : "At the back "
+				"synonym" : "At the back ",
+				"link" : "behind.jpg"
 			},
 			{
 				"word" : "Condition",
 				"transcription" : "kənˈdɪʃ·ən",
-				"synonym" : "Status, Mood"
+				"synonym" : "Status, Mood",
+				"link" : "condition.jpg"
 			},
 			{
 				"word" : "Among",
 				"transcription" : "əˈmʌŋ",
-				"synonym" : "Between, Inter"
+				"synonym" : "Between, Inter",
+				"link" : "among.jpg"
 			},
 			{
 				"word" : "Tree",
 				"transcription" : "triː",
-				"synonym" : "Wood"
+				"synonym" : "Wood",
+				"link" : "tree.jpg"
 			},
 			{
 				"word" : "Which",
 				"transcription" : "wɪtʃ",
-				"synonym" : "Who"
+				"synonym" : "Who",
+				"link" : "which.jpg"
 			},
 			{
 				"word" : "Thing",
 				"transcription" : "θɪŋ",
-				"synonym" : "Stuff, Materials, Tackle"
+				"synonym" : "Stuff, Materials, Tackle",
+				"link" : "thing.jpg"
 			},
 			{
 				"word" : "Privileges",
 				"transcription" : "ˈprɪv.əl.ɪdʒ",
-				"synonym" : "Prerogative, bonus"
+				"synonym" : "Prerogative, bonus",
+				"link" : "privileges.jpg"
 			},
 			{
 				"word" : "Manage",
 				"transcription" : "ˈmæn.ɪdʒ",
-				"synonym" : "Control, Govern, Lead"
+				"synonym" : "Control, Govern, Lead",
+				"link" : "manage.jpg"
 			},
 			{
 				"word" : "Control",
 				"transcription" : "kənˈtrəʊl",
-				"synonym" : "Manage, Monitoring, Examination"
+				"synonym" : "Manage, Monitoring, Examination",
+				"link" : "control.jpg"
 			},
 			{
 				"word" : "Connect",
 				"transcription" : "kəˈnekt",
-				"synonym" : "Unite, Bind, Merge"
+				"synonym" : "Unite, Bind, Merge",
+				"link" : "connect.jpg"
 			},
 			{
 				"word" : "Adjective",
 				"transcription" : "ˈædʒ.ek.tɪv",
-				"synonym" : "ПРИЛАГАТЕЛЬНОЕ"
+				"synonym" : "ПРИЛАГАТЕЛЬНОЕ",
+				"link" : "adjective.jpg"
 			},
 			{
 				"word" : "Noun",
 				"transcription" : "naʊn",
-				"synonym" : "СУЩЕСТВИТЕЛЬНОЕ"
+				"synonym" : "СУЩЕСТВИТЕЛЬНОЕ",
+				"link" : "noun.jpg"
 			},
 			{
 				"word" : "Part",
 				"transcription" : "pɑːt",
-				"synonym" : "Portion, Role, Member"
+				"synonym" : "Portion, Role, Member",
+				"link" : "part.jpg"
 			},
 			{
 				"word" : "Sky",
 				"transcription" : "skaɪ",
-				"synonym" : "Heaven, Weather"
+				"synonym" : "Heaven, Weather",
+				"link" : "sky.jpg"
 			},
 			{
 				"word" : "Consider",
 				"transcription" : "kənˈsɪd.ər",
-				"synonym" : "Review, See, Suppose"
+				"synonym" : "Review, See, Suppose",
+				"link" : "consider.jpg"
 			},
 			{
 				"word" : "Movement",
 				"transcription" : "ˈmuːv.mənt",
-				"synonym" : "Move, Transfer, Change"
+				"synonym" : "Move, Transfer, Change",
+				"link" : "movement.jpg"
 			},
 			{
 				"word" : "Definition",
 				"transcription" : "def.ɪˈnɪʃ.ən",
-				"synonym" : "Description"
+				"synonym" : "Description",
+				"link" : "definition.jpg"
 			},
 			{
 				"word" : "Revise",
 				"transcription" : "rɪˈvaɪz",
-				"synonym" : "Verify, Review, Check"
+				"synonym" : "Verify, Review, Check",
+				"link" : "revise.jpg"
 			},
 			{
 				"word" : "Exercise",
 				"transcription" : "ˈek.sə.saɪz",
-				"synonym" : "Practice, Training"
+				"synonym" : "Practice, Training",
+				"link" : "exercise.jpg"
 			}
 		],
 		"lesson_3" : [
 			{
 				"word" : "Anything",
 				"transcription" : "ˈen.i.θɪŋ",
-				"synonym" : "Something"
+				"synonym" : "Something",
+				"link" : "anything.jpg"
 			},
 			{
 				"word" : "Believe",
 				"transcription" : "bɪˈliːv",
-				"synonym" : "Trust"
+				"synonym" : "Trust",
+				"link" : "believe.jpg"
 			},
 			{
 				"word" : "Concern",
 				"transcription" : "kənˈsɜːn",
-				"synonym" : "Worry"
+				"synonym" : "Worry",
+				"link" : "concern.jpg"
 			},
 			{
 				"word" : "Describe",
 				"transcription" : "dɪˈskraɪb",
-				"synonym" : "Characterize"
+				"synonym" : "Characterize",
+				"link" : "describe.jpg"
 			},
 			{
 				"word" : "Enough",
 				"transcription" : "ɪˈnʌf",
-				"synonym" : "Fairly"
+				"synonym" : "Fairly",
+				"link" : "enough.jpg"
 			},
 			{
 				"word" : "Forget",
 				"transcription" : "fəˈɡet",
-				"synonym" : ""
+				"synonym" : "",
+				"link" : "forget.jpg"
 			},
 			{
 				"word" : "Ground",
 				"transcription" : "ɡraʊnd",
-				"synonym" : "Earth"
+				"synonym" : "Earth",
+				"link" : "ground.jpg"
 			},
 			{
 				"word" : "Hurry",
 				"transcription" : "hʌr.i",
-				"synonym" : "To go fast"
+				"synonym" : "To go fast",
+				"link" : "hurry.jpg"
 			},
 			{
 				"word" : "Island",
 				"transcription" : "ˈaɪ.lənd",
-				"synonym" : "Islet"
+				"synonym" : "Islet",
+				"link" : "island.jpg"
 			},
 			{
 				"word" : "Keep",
 				"transcription" : "kiːp",
-				"synonym" : "Hold"
+				"synonym" : "Hold",
+				"link" : "keep.jpg"
 			},
 			{
 				"word" : "Lift",
 				"transcription" : "lɪft",
-				"synonym" : "Hoist"
+				"synonym" : "Hoist",
+				"link" : "lift.jpg"
 			},
 			{
 				"word" : "Means",
 				"transcription" : "miːnz",
-				"synonym" : "Method"
+				"synonym" : "Method",
+				"link" : "means.jpg"
 			},
 			{
 				"word" : "Near",
 				"transcription" : "nɪər",
-				"synonym" : "Close to, Not far from"
+				"synonym" : "Close to, Not far from",
+				"link" : "near.jpg"
 			},
 			{
 				"word" : "Probable",
 				"transcription" : "prɒb.ə.bəl",
-				"synonym" : "Likely"
+				"synonym" : "Likely",
+				"link" : "probable.jpg"
 			},
 			{
 				"word" : "Receive",
 				"transcription" : "rɪˈsiːv",
-				"synonym" : "Accept, get"
+				"synonym" : "Accept, get",
+				"link" : "receive.jpg"
 			},
 			{
 				"word" : "Statement",
 				"transcription" : "ˈsteɪt.mənt",
-				"synonym" : "Claim"
+				"synonym" : "Claim",
+				"link" : "statement.jpg"
 			},
 			{
 				"word" : "Through",
 				"transcription" : "θruː",
-				"synonym" : "Across"
+				"synonym" : "Across",
+				"link" : "through.jpg"
 			},
 			{
 				"word" : "Various",
 				"transcription" : "ˈveə.ri.əs",
-				"synonym" : "Different"
+				"synonym" : "Different",
+				"link" : "various.jpg"
 			},
 			{
 				"word" : "Shake",
 				"transcription" : "ʃeɪk",
-				"synonym" : "Vibrate"
+				"synonym" : "Vibrate",
+				"link" : "shake.jpg"
 			},
 			{
 				"word" : "Operation",
 				"transcription" : "ˌɒp.ərˈeɪ.ʃən",
-				"synonym" : "Action"
+				"synonym" : "Action",
+				"link" : "operation.jpg"
 			}
 		],
 		"lesson_4" : [
 			{
 				"word" : "Ill",
 				"transcription" : "ɪl",
-				"synonym" : "Badly"
+				"synonym" : "Sick, Feel badly",
+				"link" : "ill.jpg"
 			},
 			{
 				"word" : "Feel",
 				"transcription" : "fiːl",
-				"synonym" : "Sense, Paerceive"
+				"synonym" : "Sense, Perceive",
+				"link" : "feel.jpg"
 			},
 			{
 				"word" : "Accident",
 				"transcription" : "ˈæk.sɪ.dənt",
-				"synonym" : "Crash, Incident"
+				"synonym" : "Crash, Bad incident",
+				"link" : "accident.jpg"
 			},
 			{
 				"word" : "Bored",
 				"transcription" : "bɔːd",
-				"synonym" : "Miss"
+				"synonym" : "Uninterested",
+				"link" : "bored.jpg"
 			},
 			{
 				"word" : "Carriage",
 				"transcription" : "ˈkær.ɪdʒ",
-				"synonym" : "Transport"
+				"synonym" : "Transport, Vehicle",
+				"link" : "carriage.jpg"
 			},
 			{
 				"word" : "Tall",
 				"transcription" : "tɔːl",
-				"synonym" : "High"
+				"synonym" : "High",
+				"link" : "tall.jpg"
 			},
 			{
 				"word" : "Expensive",
 				"transcription" : "ɪkˈspen.sɪv",
-				"synonym" : "Dear, High-priced"
+				"synonym" : "High-priced, Not cheap",
+				"link" : "expensive.jpg"
 			},
 			{
 				"word" : "Suit",
 				"transcription" : "suːt",
-				"synonym" : "Costume"
+				"synonym" : "Costume",
+				"link" : "suit.jpg"
 			},
 			{
 				"word" : "Loud",
 				"transcription" : "laʊd",
-				"synonym" : "Noisy"
+				"synonym" : "Noisy",
+				"link" : "loud.jpg"
 			},
 			{
 				"word" : "Voice",
 				"transcription" : "vɔɪs",
-				"synonym" : ""
+				"synonym" : "Sound that you make, when you speck or sing",
+				"link" : "voice.jpg"
 			},
 			{
 				"word" : "Noisy",
-				"transcription" : "nɔɪz",
-				"synonym" : "Loud"
+				"transcription" : "ˈnɔɪ.zi",
+				"synonym" : "Loud",
+				"link" : "noisy.jpg"
 			},
 			{
 				"word" : "Quiet",
 				"transcription" : "ˈkwaɪ.ət",
-				"synonym" : ""
+				"synonym" : "not noisy",
+				"link" : "noisy.jpg"
 			},
 			{
 				"word" : "Thirsty",
 				"transcription" : "ˈθɜː.st",
-				"synonym" : "Hungry"
+				"synonym" : "When you want to drink",
+				"link" : "thirsty.jpg"
 			},
 			{
 				"word" : "Nicely",
 				"transcription" : "ˈnaɪs.li",
-				"synonym" : "Well"
+				"synonym" : "Well",
+				"link" : "nicely.jpg"
 			},
 			{
 				"word" : "Mean",
 				"transcription" : "miːn",
-				"synonym" : ""
+				"synonym" : "",
+				"link" : "mean.jpg"
 			},
 			{
 				"word" : "Claim",
 				"transcription" : "kleɪm",
-				"synonym" : ""
+				"synonym" : "",
+				"link" : "claim.jpg"
+			}
+		],
+		"lesson_5" : [
+			{
+				"word" : "Mood",
+				"transcription" : "mud",
+				"synonym" : "Sentiment",
+				"link" : "mood.jpg"
+			},
+			{
+				"word" : "Certain",
+				"transcription" : "ˈsɜr·tən",
+				"synonym" : "Determined, As in the description",
+				"link" : ""
+			},
+			{
+				"word" : "Provide",
+				"transcription" : "prəˈvɑɪd",
+				"synonym" : "Give",
+				"link" : "provide.jpg"
+			},
+			{
+				"word" : "Close",
+				"transcription" : "kloʊs",
+				"synonym" : "Near, Almost",
+				"link" : "close.jpg"
+			},
+			{
+				"word" : "Act/Action",
+				"transcription" : "ækt / ˈæk·ʃən",
+				"synonym" : "Do, work",
+				"link" : "action.jpg"
+			},
+			{
+				"word" : "Pupil",
+				"transcription" : "ˈpju·pəl",
+				"synonym" : "Schoolboy, Eye Circle",
+				"link" : "pupil.jpg"
+			},
+			{
+				"word" : "Suddenly",
+				"transcription" : "ˈsʌd.ən.li",
+				"synonym" : "He was suddenly paralysed by fear",
+				"link" : "suddenly.jpg"
 			}
 		]
 	}

@@ -204,12 +204,13 @@ window.onload = function() {
 		}
 
 		showTaskCreateFill() {
+			var empty_link = 'empty_img.jpg'
 			var result = ``;
 			this.settings.currentCard.forEach(function(item) {
 				result += `
 				<div class="card_block">
 					<div class="card_img">
-						<img src="img/words/${item.word.toLowerCase()}.jpg" alt="">
+						<img src="img/words/${item.link ? item.link : empty_link}" alt="">
 					</div>
 					<div class="card_context">
 						<div class="card_title">${item.word}</div>
