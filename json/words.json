@@ -486,7 +486,7 @@
 			{
 				"word" : "Certain",
 				"transcription" : "ˈsɜr·tən",
-				"synonym" : "Determined, As in the description",
+				"synonym" : "Definite, As in the description",
 				"link" : ""
 			},
 			{
@@ -510,7 +510,7 @@
 			{
 				"word" : "Pupil",
 				"transcription" : "ˈpju·pəl",
-				"synonym" : "Schoolboy, Eye Circle",
+				"synonym" : "Schoolboy, Black area in an eye",
 				"link" : "pupil.jpg"
 			},
 			{
@@ -524,6 +524,104 @@
 				"transcription" : "əˈweɪ",
 				"synonym" : "Far",
 				"link" : "away.jpg"
+			}
+		],
+		"lesson_6"  : [
+			{
+				"word" : "Law",
+				"transcription" : "lɔː",
+				"synonym" : "Right, Act",
+				"link" : "law.jpg"
+			},
+			{
+				"word" : "Consonant",
+				"transcription" : "ˈkɒnsənənt",
+				"synonym" : "no vowel",
+				"link" : "consonant.jpg"
+			},
+			{
+				"word" : "Vowel",
+				"transcription" : "vaʊəl",
+				"synonym" : "no consonant",
+				"link" : "vowel.jpg"
+			},
+			{
+				"word" : "Сentury",
+				"transcription" : "senʃəri",
+				"synonym" : "Age",
+				"link" : "century.jpg"
+			},
+			{
+				"word" : "Divide",
+				"transcription" : "dɪˈvaɪd",
+				"synonym" : "Share",
+				"link" : "divide.jpg"
+			},
+			{
+				"word" : "Exchange",
+				"transcription" : "ɪksˈtʃeɪndʒ",
+				"synonym" : "Trade",
+				"link" : "exchange.jpg"
+			},
+			{
+				"word" : "Fat",
+				"transcription" : "fæt",
+				"synonym" : "My stomach has it",
+				"link" : "fat.jpg"
+			},
+			{
+				"word" : "Grass",
+				"transcription" : "ɡrɑːs",
+				"synonym" : "herb",
+				"link" : "grass.jpg"
+			},
+			{
+				"word" : "Instead",
+				"transcription" : "ɪnˈsted",
+				"synonym" : "One replaces the other",
+				"link" : "instead.jpg"
+			},
+			{
+				"word" : "Notice",
+				"transcription" : "ˈnəʊtɪs",
+				"synonym" : "Announcement, Message",
+				"link" : "notice.jpg"
+			},
+			{
+				"word" : "Purpose",
+				"transcription" : "ˈpɜːpə",
+				"synonym" : "Goal",
+				"link" : "purpose.jpg"
+			},
+			{
+				"word" : "Possible",
+				"transcription" : "ˈpɒsəbl",
+				"synonym" : "Potential",
+				"link" : ""
+			},
+			{
+				"word" : "Represent",
+				"transcription" : "ˌreprɪˈzent",
+				"synonym" : "Introduce",
+				"link" : "represent.jpg"
+			},
+			{
+				"word" : "Arrive",
+				"transcription" : "əˈraɪv",
+				"synonym" : "Come",
+				"link" : "arrive.jpg"
+			},
+			{
+				"word" : "Bridge",
+				"transcription" : "brɪdʒ",
+				"synonym" : "",
+				"link" : "bridge.jpg"
+			},
+			{
+				"word" : "Crowd",
+				"transcription" : "kraʊd",
+				"synonym" : "mob",
+				"link" : "crowd.jpg"
 			}
 		]
 	}
