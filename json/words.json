@@ -526,7 +526,7 @@
 				"link" : "away.jpg"
 			}
 		],
-		"lesson_6"  : [
+		"lesson_6" : [
 			{
 				"word" : "Law",
 				"transcription" : "lɔː",
@@ -536,25 +536,25 @@
 			{
 				"word" : "Consonant",
 				"transcription" : "ˈkɒnsənənt",
-				"synonym" : "no vowel",
+				"synonym" : "It's not a vowel",
 				"link" : "consonant.jpg"
 			},
 			{
 				"word" : "Vowel",
 				"transcription" : "vaʊəl",
-				"synonym" : "no consonant",
+				"synonym" : "It's not a consonant",
 				"link" : "vowel.jpg"
 			},
 			{
 				"word" : "Сentury",
-				"transcription" : "senʃəri",
+				"transcription" : "'senʧərɪ",
 				"synonym" : "Age",
 				"link" : "century.jpg"
 			},
 			{
 				"word" : "Divide",
 				"transcription" : "dɪˈvaɪd",
-				"synonym" : "Share",
+				"synonym" : "Share, Separate",
 				"link" : "divide.jpg"
 			},
 			{
@@ -566,13 +566,13 @@
 			{
 				"word" : "Fat",
 				"transcription" : "fæt",
-				"synonym" : "My stomach has it",
+				"synonym" : "My stomach has it, Overweight",
 				"link" : "fat.jpg"
 			},
 			{
 				"word" : "Grass",
 				"transcription" : "ɡrɑːs",
-				"synonym" : "herb",
+				"synonym" : "Herb",
 				"link" : "grass.jpg"
 			},
 			{
@@ -584,7 +584,7 @@
 			{
 				"word" : "Notice",
 				"transcription" : "ˈnəʊtɪs",
-				"synonym" : "Announcement, Message",
+				"synonym" : "Message",
 				"link" : "notice.jpg"
 			},
 			{
@@ -620,9 +620,42 @@
 			{
 				"word" : "Crowd",
 				"transcription" : "kraʊd",
-				"synonym" : "mob",
+				"synonym" : "A large group of people, Mob",
 				"link" : "crowd.jpg"
 			}
+		],
+		"lesson_7" : [
+			{
+				"word" : "Follow",
+				"transcription" : "fɑl·oʊ",
+				"synonym" : "",
+				"link" : "follow.jpg"
+			},
+			{
+				"word" : "Addition",
+				"transcription" : "əˈdɪʃ·ən",
+				"synonym" : "",
+				"link" : "Addition.jpg"
+			},
+			{
+				"word" : "",
+				"transcription" : "",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "",
+				"transcription" : "",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "",
+				"transcription" : "",
+				"synonym" : "",
+				"link" : ""
+			}
+
 		]
 	}
 }
