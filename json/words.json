@@ -635,27 +635,38 @@
 				"word" : "Addition",
 				"transcription" : "əˈdɪʃ·ən",
 				"synonym" : "",
-				"link" : "Addition.jpg"
+				"link" : "addition.jpg"
 			},
 			{
-				"word" : "",
-				"transcription" : "",
-				"synonym" : "",
+				"word" : "Beautiful",
+				"transcription" : "ˈbju·t̬ɪ·fəl",
+				"synonym" : "Great, Nice, Excellent",
 				"link" : ""
 			},
 			{
-				"word" : "",
-				"transcription" : "",
-				"synonym" : "",
-				"link" : ""
+				"word" : "Certainly",
+				"transcription" : "ˈsɜr·tən·li",
+				"synonym" : "Of course",
+				"link" : "certainly.jpg"
 			},
 			{
-				"word" : "",
-				"transcription" : "",
+				"word" : "Decision",
+				"transcription" : "dɪˈsɪʒ·ən",
+				"synonym" : "Solution",
+				"link" : "decision.jpg"
+			},
+			{
+				"word" : "Edge",
+				"transcription" : "edʒ",
 				"synonym" : "",
-				"link" : ""
+				"link" : "edge.jpg"
+			},
+			{
+				"word" : "Former",
+				"transcription" : "ˈfɔr·mər",
+				"synonym" : "Ex, Last, previous",
+				"link" : "former.jpg"
 			}
-
 		]
 	}
 }
