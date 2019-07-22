@@ -628,7 +628,7 @@
 			{
 				"word" : "Follow",
 				"transcription" : "fɑl·oʊ",
-				"synonym" : "",
+				"synonym" : "To go behind somebody, to follow law",
 				"link" : "follow.jpg"
 			},
 			{
@@ -646,13 +646,13 @@
 			{
 				"word" : "Certainly",
 				"transcription" : "ˈsɜr·tən·li",
-				"synonym" : "Of course",
+				"synonym" : "Of course, Sure",
 				"link" : "certainly.jpg"
 			},
 			{
 				"word" : "Decision",
 				"transcription" : "dɪˈsɪʒ·ən",
-				"synonym" : "Solution",
+				"synonym" : "Solution, Idea",
 				"link" : "decision.jpg"
 			},
 			{
@@ -667,6 +667,63 @@
 				"synonym" : "Ex, Last, previous",
 				"link" : "former.jpg"
 			}
+		],
+		"lesson_8" : [
+			{
+				"word" : "Scenery",
+				"transcription" : "ˈsi·nə·ri",
+				"synonym" : "Decor, Landscape",
+				"link" : "scenery.jpg"
+			},
+			{
+				"word" : "decide",
+				"transcription" : "dɪˈsɑɪd",
+				"synonym" : "Solve, Arrive at a decision",
+				"link" : "decide.jpg"
+			},
+			{
+				"word" : "Sure!",
+				"transcription" : "ʃʊər (ʃoʊr)",
+				"synonym" : "Of course!",
+				"link" : "sure.jpg"
+			},
+			{
+				"word" : "Effort",
+				"transcription" : "ˈef·ərt",
+				"synonym" : "Exertion, Try",
+				"link" : "effort.jpg"
+			},
+			{
+				"word" : "Future",
+				"transcription" : "ˈfju·tʃər",
+				"synonym" : "",
+				"link" : "future.jpg"
+			},
+			{
+				"word" : "Knowledge",
+				"transcription" : "ˈnɑl·ɪdʒ",
+				"synonym" : "It's my learn",
+				"link" : "knowledge.jpg"
+			},
+			{
+				"word" : "Approach",
+				"transcription" : "əˈproʊtʃ",
+				"synonym" : "Tactics",
+				"link" : "approach.jpg"
+			},
+			{
+				"word" : "Cause",
+				"transcription" : "kɔz",
+				"synonym" : "Basis, Motive",
+				"link" : "cause.jpg"
+			},
+			{
+				"word" : "Field",
+				"transcription" : "fild",
+				"synonym" : "Magin, Area",
+				"link" : "field.jpg"
+			}
+
 		]
 	}
 }
