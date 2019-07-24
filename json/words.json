@@ -676,9 +676,9 @@
 				"link" : "scenery.jpg"
 			},
 			{
-				"word" : "decide",
+				"word" : "Decide",
 				"transcription" : "dɪˈsɑɪd",
-				"synonym" : "Solve, Arrive at a decision",
+				"synonym" : "Solve",
 				"link" : "decide.jpg"
 			},
 			{
@@ -690,7 +690,7 @@
 			{
 				"word" : "Effort",
 				"transcription" : "ˈef·ərt",
-				"synonym" : "Exertion, Try",
+				"synonym" : "Try",
 				"link" : "effort.jpg"
 			},
 			{
@@ -702,13 +702,13 @@
 			{
 				"word" : "Knowledge",
 				"transcription" : "ˈnɑl·ɪdʒ",
-				"synonym" : "It's my learn",
+				"synonym" : "It's my stady",
 				"link" : "knowledge.jpg"
 			},
 			{
 				"word" : "Approach",
 				"transcription" : "əˈproʊtʃ",
-				"synonym" : "Tactics",
+				"synonym" : "Tactics, To come, Reson",
 				"link" : "approach.jpg"
 			},
 			{
@@ -720,10 +720,134 @@
 			{
 				"word" : "Field",
 				"transcription" : "fild",
-				"synonym" : "Magin, Area",
+				"synonym" : "Margin, Area",
 				"link" : "field.jpg"
 			}
+		],
+		"lesson_9" : [
+			{
+				"word" : "Belong",
+				"transcription" : "bɪˈlɒŋ",
+				"synonym" : "Relate, Connect",
+				"link" : "belong.jpg"
+			},
+			{
+				"word" : "Relative",
+				"transcription" : "ˈrel·ə·t̬ɪv",
+				"synonym" : "Family",
+				"link" : "relative.jpg"
+			},
+			{
+				"word" : "Wedding",
+				"transcription" : "ˈwed·ɪŋ",
+				"synonym" : "Marriage",
+				"link" : "wedding.jpg"
+			},
+			{
+				"word" : "Musician",
+				"transcription" : "mjʊˈzɪʃ·ən",
+				"synonym" : "Instrumentalist",
+				"link" : "musician.jpg"
+			},
+			{
+				"word" : "Demand",
+				"transcription" : "dɪˈmænd",
+				"synonym" : "Require, Need",
+				"link" : "demand.jpg"
+			},
+			{
+				"word" : "Finger",
+				"transcription" : "ˈfɪŋ·ɡər",
+				"synonym" : "",
+				"link" : "finger.jpg"
+			},
+			{
+				"word" : "Famous",
+				"transcription" : "ˈfeɪ·məs",
+				"synonym" : "Celebrated",
+				"link" : "famous.jpg"
+			},
+			{
+				"word" : "Mountain",
+				"transcription" : "ˈmɑʊn·tən",
+				"synonym" : "Hill",
+				"link" : "mountain.jpg"
+			},
+			{
+				"word" : "Suggest",
+				"transcription" : "səɡˈdʒest",
+				"synonym" : "Offer",
+				"link" : "suggest.jpg"
+			},
+			{
+				"word" : "Village",
+				"transcription" : "ˈvɪl·ɪdʒ",
+				"synonym" : "Country",
+				"link" : "village.jpg"
+			}
+		],
 
+		"Irregular_verbs_1" : [
+			{
+				"word" : "be (was / were) been",
+				"transcription" : "[bˈiː] ([wˈɒz] / [wˈeəː]) [bˈiːn]",
+				"synonym" : "",
+				"link" : "be.jpg"
+			},
+			{
+				"word" : "(have / has) had had",
+				"transcription" : "(hˈæv] / [hˈæz]) [hˈæd] [hˈæd]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "(do / does) did done",
+				"transcription" : "([dˈuː] / [dˈʌz]) [dˈɪd] [dˈʌn]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "say said said",
+				"transcription" : "[sˈeɪː] [sˈed] [sˈed]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "go went gone",
+				"transcription" : "[gou] [wˈent] [gˈɒn]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "can could could",
+				"transcription" : "[kˈæn] [kˈʊd] [kˈʊd]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "get got got",
+				"transcription" : "[gˈet] [gˈɒt] [gˈɒt]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "make made made",
+				"transcription" : "[mˈeɪːk] [mˈeɪːd] [mˈeɪːd]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "know knew known",
+				"transcription" : "[nou] [njˈuː] [noun]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "think thought thought",
+				"transcription" : "[θˈɪŋk] [θˈɔːt] [θˈɔːt]",
+				"synonym" : "",
+				"link" : ""
+			}
 		]
 	}
 }
