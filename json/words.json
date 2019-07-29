@@ -726,9 +726,9 @@
 		],
 		"lesson_9" : [
 			{
-				"word" : "Belong",
+				"word" : "Belong (to)",
 				"transcription" : "bɪˈlɒŋ",
-				"synonym" : "Relate, Connect",
+				"synonym" : "Relate",
 				"link" : "belong.jpg"
 			},
 			{
@@ -796,7 +796,7 @@
 			},
 			{
 				"word" : "(have / has) had had",
-				"transcription" : "(hˈæv] / [hˈæz]) [hˈæd] [hˈæd]",
+				"transcription" : "(hˈæv] / [hˈæz]) [hˈæd]",
 				"synonym" : "",
 				"link" : ""
 			},
@@ -808,7 +808,7 @@
 			},
 			{
 				"word" : "say said said",
-				"transcription" : "[sˈeɪː] [sˈed] [sˈed]",
+				"transcription" : "[sˈeɪː] [sˈed]",
 				"synonym" : "",
 				"link" : ""
 			},
@@ -820,19 +820,19 @@
 			},
 			{
 				"word" : "can could could",
-				"transcription" : "[kˈæn] [kˈʊd] [kˈʊd]",
+				"transcription" : "[kˈæn] [kˈʊd]",
 				"synonym" : "",
 				"link" : ""
 			},
 			{
 				"word" : "get got got",
-				"transcription" : "[gˈet] [gˈɒt] [gˈɒt]",
+				"transcription" : "[gˈet] [gˈɒt]",
 				"synonym" : "",
 				"link" : ""
 			},
 			{
 				"word" : "make made made",
-				"transcription" : "[mˈeɪːk] [mˈeɪːd] [mˈeɪːd]",
+				"transcription" : "[mˈeɪːk] [mˈeɪːd]",
 				"synonym" : "",
 				"link" : ""
 			},
@@ -844,7 +844,69 @@
 			},
 			{
 				"word" : "think thought thought",
-				"transcription" : "[θˈɪŋk] [θˈɔːt] [θˈɔːt]",
+				"transcription" : "[θˈɪŋk] [θˈɔːt]",
+				"synonym" : "",
+				"link" : ""
+			}
+		],
+		"Irregular_verbs_2" : [
+			{
+				"word" : "take took taken",
+				"transcription" : "[tˈeɪːk] [tˈʊk] [tˈeɪːkən]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "see saw seen",
+				"transcription" : "[sˈiː] [sˈɔː] [sˈiːn]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "come came come",
+				"transcription" : "[kˈʌm] [kˈeɪːm] [kʌm]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "find found found",
+				"transcription" : "[fˈaɪnd] [fˈaʊːnd]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "give gave given",
+				"transcription" : "[gˈɪv] [gˈeɪːv] [gˈɪvn̩]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "tell told told",
+				"transcription" : "[tˈel] [tould]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "may might might",
+				"transcription" : "[mˈeɪː] [mˈaɪt]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "feel felt felt",
+				"transcription" : "[fˈiːl] [fˈelt]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "become became become",
+				"transcription" : "[bɪˈkʌm] [bɪˈkeɪm] [bɪˈkʌm]",
+				"synonym" : "",
+				"link" : "become.jpg"
+			},
+			{
+				"word" : "leave left left",
+				"transcription" : "[lˈiːv] [lˈeft]",
 				"synonym" : "",
 				"link" : ""
 			}
