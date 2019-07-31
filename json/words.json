@@ -764,7 +764,7 @@
 			{
 				"word" : "Famous",
 				"transcription" : "ˈfeɪ·məs",
-				"synonym" : "Celebrated",
+				"synonym" : "Celebrated, Popular",
 				"link" : "famous.jpg"
 			},
 			{
@@ -784,6 +784,56 @@
 				"transcription" : "ˈvɪl·ɪdʒ",
 				"synonym" : "Country",
 				"link" : "village.jpg"
+			}
+		],
+		"lesson_10" : [
+			{
+				"word" : "Hope",
+				"transcription" : "hoʊp",
+				"synonym" : "Expectation",
+				"link" : "hope.jpg"
+			},
+			{
+				"word" : "Prefer",
+				"transcription" : "prɪˈfɜr",
+				"synonym" : "Choose",
+				"link" : "prefer.jpg"
+			},
+			{
+				"word" : "The same",
+				"transcription" : "ðə seɪm",
+				"synonym" : "Identical",
+				"link" : ""
+			},
+			{
+				"word" : "Adverb",
+				"transcription" : "ˈæd·vɜrb",
+				"synonym" : "НАРЕЧИЕ",
+				"link" : ""
+			},
+			{
+				"word" : "Pronoun",
+				"transcription" : "ˈproʊˌnɑʊn",
+				"synonym" : "Местоимение",
+				"link" : ""
+			},
+			{
+				"word" : "Relationship",
+				"transcription" : "rɪˈleɪ·ʃənˌʃɪp",
+				"synonym" : "Binding, Attitude",
+				"link" : "relationship.jpg"
+			},
+			{
+				"word" : "Colleague",
+				"transcription" : "ˈkɑl·iɡ",
+				"synonym" : "",
+				"link" : "colleague.jpg"
+			},
+			{
+				"word" : "Groceries",
+				"transcription" : "ˈɡroʊ·sə·riz",
+				"synonym" : "",
+				"link" : "groceries.jpg"
 			}
 		],
 
@@ -907,6 +957,68 @@
 			{
 				"word" : "leave left left",
 				"transcription" : "[lˈiːv] [lˈeft]",
+				"synonym" : "",
+				"link" : ""
+			}
+		],
+		"Irregular_verbs_3" : [
+			{
+				"word" : "put put put",
+				"transcription" : "[pˈʊt]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "mean meant meant",
+				"transcription" : "[mˈiːn] [mˈent]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "keep kept kept",
+				"transcription" : "[kˈiːp] [kˈept]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "let let let",
+				"transcription" : "[lˈet]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "begin began begun",
+				"transcription" : "[bıʹgın] [bıʹgæn] [bɪˈgʌn]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "show showed shown",
+				"transcription" : "[ʃou] [ʃoud] [ʃoun]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "lean leant leant",
+				"transcription" : "[lˈiːn] [lˈent]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "hear heard heard",
+				"transcription" : "[hˈɪəː] [hˈɜːd]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "run ran run",
+				"transcription" : "[rˈʌn] [rˈæn] [rʌn]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "hold held held",
+				"transcription" : "[hould] [hˈeld]",
 				"synonym" : "",
 				"link" : ""
 			}
