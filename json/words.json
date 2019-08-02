@@ -808,25 +808,25 @@
 			{
 				"word" : "Adverb",
 				"transcription" : "ˈæd·vɜrb",
-				"synonym" : "НАРЕЧИЕ",
+				"synonym" : "НАРЕЧИЕ (КАК?)(-ly)",
 				"link" : ""
 			},
 			{
 				"word" : "Pronoun",
 				"transcription" : "ˈproʊˌnɑʊn",
-				"synonym" : "Местоимение",
+				"synonym" : "МЕСТОИМЕНИЕ(I, you, she, he, it, they ...)",
 				"link" : ""
 			},
 			{
 				"word" : "Relationship",
 				"transcription" : "rɪˈleɪ·ʃənˌʃɪp",
-				"synonym" : "Binding, Attitude",
+				"synonym" : "Binding",
 				"link" : "relationship.jpg"
 			},
 			{
 				"word" : "Colleague",
 				"transcription" : "ˈkɑl·iɡ",
-				"synonym" : "",
+				"synonym" : "Co-worker",
 				"link" : "colleague.jpg"
 			},
 			{
@@ -835,6 +835,69 @@
 				"synonym" : "",
 				"link" : "groceries.jpg"
 			}
+		],
+		"lesson_11" : [
+			{
+				"word" : "Purchase",
+				"transcription" : "ˈpɜr·tʃəs",
+				"synonym" : "",
+				"link" : "purchase.js"
+			},
+			{
+				"word" : "Be called",
+				"transcription" : "",
+				"synonym" : "Title",
+				"link" : ""
+			},
+			{
+				"word" : "Shop / Do shopping",
+				"transcription" : "ʃɑp",
+				"synonym" : "",
+				"link" : "shop.jpg"
+			},
+			{
+				"word" : "Insert",
+				"transcription" : "ɪnˈsɜrt",
+				"synonym" : "",
+				"link" : "insert.jpg"
+			},
+			{
+				"word" : "Missing",
+				"transcription" : "ˈmɪs·ɪŋ",
+				"synonym" : "",
+				"link" : "missing.jpg"
+			},
+			{
+				"word" : "Perfect",
+				"transcription" : "ˈpɜr·fɪkt",
+				"synonym" : "Improve, Ideal",
+				"link" : "perfect.jpg"
+			},
+			{
+				"word" : "Bill",
+				"transcription" : "bɪl",
+				"synonym" : "Count",
+				"link" : "bill.jpg"
+			},
+			{
+				"word" : "Flower",
+				"transcription" : "flɑʊər",
+				"synonym" : "",
+				"link" : "flower.jpg"
+			},
+			{
+				"word" : "Happen",
+				"transcription" : "ˈhæp·ən",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "Happy",
+				"transcription" : "ˈhæp·i",
+				"synonym" : "",
+				"link" : ""
+			}
+
 		],
 
 		"Irregular_verbs_1" : [
@@ -1019,6 +1082,68 @@
 			{
 				"word" : "hold held held",
 				"transcription" : "[hould] [hˈeld]",
+				"synonym" : "",
+				"link" : ""
+			}
+		],
+		"Irregular_verbs_4" : [
+			{
+				"word" : "bring brought brought",
+				"transcription" : "[brˈɪŋ] [brˈɔːt]",
+				"synonym" : "",
+				"link" : "bring.jpg"
+			},
+			{
+				"word" : "write wrote written",
+				"transcription" : "[rˈaɪt] [rout] [rˈɪtn̩]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "sit sat sat",
+				"transcription" : "[sˈɪt] [sˈæt]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "stand stood stood",
+				"transcription" : "[stˈænd] [stuːd]",
+				"synonym" : "",
+				"link" : "lose.jpg"
+			},
+			{
+				"word" : "lose lost lost",
+				"transcription" : "[lˈuːz] [lˈɒst]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "pay paid paid",
+				"transcription" : "[pˈeɪː] [pˈeɪːd]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "meet met met",
+				"transcription" : "[mˈiːt] [mˈet]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "set set set",
+				"transcription" : "[sˈet]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "learn learnt learnt",
+				"transcription" : "[lˈɜːn] [lˈɜːnt]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "lead led led",
+				"transcription" : "[liːd] [lˈed]",
 				"synonym" : "",
 				"link" : ""
 			}
