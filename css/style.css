@@ -239,6 +239,7 @@ body[data-theme="dark"] {
   font-weight: 700;
   margin-top: 10px;
   margin-bottom: 15px;
+  text-transform: capitalize;
 }
 
 .card_block .card_transcription {

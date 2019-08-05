@@ -882,7 +882,7 @@
 			{
 				"word" : "Flower",
 				"transcription" : "flɑʊər",
-				"synonym" : "",
+				"synonym" : "Plant",
 				"link" : "flower.jpg"
 			},
 			{
@@ -896,6 +896,45 @@
 				"transcription" : "ˈhæp·i",
 				"synonym" : "",
 				"link" : ""
+			}
+
+		],
+		"lesson_12" : [
+			{
+				"word" : "Nurse",
+				"transcription" : "nɜrs",
+				"synonym" : "",
+				"link" : "nurse.jpg"
+			},
+			{
+				"word" : "Engine",
+				"transcription" : "ˈen·dʒən",
+				"synonym" : "",
+				"link" : "engine.jpg"
+			},
+			{
+				"word" : "place",
+				"transcription" : "pleɪs",
+				"synonym" : "Space, Town",
+				"link" : "place.jpg"
+			},
+			{
+				"word" : "remain",
+				"transcription" : "rɪˈmeɪn",
+				"synonym" : "Stay on",
+				"link" : "remain.jpg"
+			},
+			{
+				"word" : "society",
+				"transcription" : "səˈsɑɪ·ɪ·t̬i",
+				"synonym" : "Community, Public",
+				"link" : "society.jpg"
+			},
+			{
+				"word" : "solution",
+				"transcription" : "səˈlu·ʃən",
+				"synonym" : "Decision",
+				"link" : "solution.jpg"
 			}
 
 		],
@@ -1109,13 +1148,13 @@
 				"word" : "stand stood stood",
 				"transcription" : "[stˈænd] [stuːd]",
 				"synonym" : "",
-				"link" : "lose.jpg"
+				"link" : ""
 			},
 			{
 				"word" : "lose lost lost",
 				"transcription" : "[lˈuːz] [lˈɒst]",
 				"synonym" : "",
-				"link" : ""
+				"link" : "lose.jpg"
 			},
 			{
 				"word" : "pay paid paid",
@@ -1144,6 +1183,68 @@
 			{
 				"word" : "lead led led",
 				"transcription" : "[liːd] [lˈed]",
+				"synonym" : "",
+				"link" : ""
+			}
+		],
+		"Irregular_verbs_5" : [
+			{
+				"word" : "understand understood understood",
+				"transcription" : "[ʌndəstˈænd] [ˌʌndəˈstʊd]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "speak spoke spoken",
+				"transcription" : "[spˈiːk] [spouk] [spoukən]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "read read read",
+				"transcription" : "[ri:d] [red] [red]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "spend spent spent",
+				"transcription" : "[spˈend] [spˈent]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "grow grew grown",
+				"transcription" : "[grou] [grˈuː] [groun]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "win won won",
+				"transcription" : "[wˈɪn] [wˈʌn]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "buy bought bought",
+				"transcription" : "[bˈaɪ] [bˈɔːt]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "send sent sent",
+				"transcription" : "[sˈend] [sˈent]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "build built built",
+				"transcription" : "[bˈɪld] [bˈɪlt]",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "fall fell fell",
+				"transcription" : "[fˈɔːl] [fˈel] [fˈɔːlən]",
 				"synonym" : "",
 				"link" : ""
 			}
