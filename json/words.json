@@ -428,43 +428,43 @@
 				"link" : "suit.jpg"
 			},
 			{
-				"word" : "Loud",
+				"word" : "loud",
 				"transcription" : "laʊd",
 				"synonym" : "Noisy",
 				"link" : "loud.jpg"
 			},
 			{
-				"word" : "Voice",
+				"word" : "voice",
 				"transcription" : "vɔɪs",
 				"synonym" : "Sound that you make, when you speck or sing",
 				"link" : "voice.jpg"
 			},
 			{
-				"word" : "Noisy",
+				"word" : "noisy",
 				"transcription" : "ˈnɔɪ.zi",
 				"synonym" : "Loud",
 				"link" : "noisy.jpg"
 			},
 			{
-				"word" : "Quiet",
+				"word" : "quiet",
 				"transcription" : "ˈkwaɪ.ət",
 				"synonym" : "not noisy",
 				"link" : "noisy.jpg"
 			},
 			{
-				"word" : "Thirsty",
+				"word" : "thirsty",
 				"transcription" : "ˈθɜː.st",
 				"synonym" : "When you want to drink",
 				"link" : "thirsty.jpg"
 			},
 			{
-				"word" : "Nicely",
+				"word" : "nicely",
 				"transcription" : "ˈnaɪs.li",
 				"synonym" : "Well",
 				"link" : "nicely.jpg"
 			},
 			{
-				"word" : "Mean",
+				"word" : "mean",
 				"transcription" : "miːn",
 				"synonym" : "",
 				"link" : "mean.jpg"
@@ -921,20 +921,82 @@
 			{
 				"word" : "remain",
 				"transcription" : "rɪˈmeɪn",
-				"synonym" : "Stay on",
+				"synonym" : "Stay",
 				"link" : "remain.jpg"
 			},
 			{
 				"word" : "society",
 				"transcription" : "səˈsɑɪ·ɪ·t̬i",
-				"synonym" : "Community, Public",
+				"synonym" : "Community",
 				"link" : "society.jpg"
 			},
 			{
 				"word" : "solution",
 				"transcription" : "səˈlu·ʃən",
-				"synonym" : "Decision",
+				"synonym" : "Decision, Answer to a problem",
 				"link" : "solution.jpg"
+			}
+		],
+		"lesson_13" : [
+			{
+				"word" : "repair",
+				"transcription" : "rɪˈpeər",
+				"synonym" : "Renovation, Fix, Mend",
+				"link" : "repair.jpg"
+			},
+			{
+				"word" : "Attitude",
+				"transcription" : "ˈæt̬·ɪˌtud",
+				"synonym" : "Start each day with a positive attitude",
+				"link" : ""
+			},
+			{
+				"word" : "perception",
+				"transcription" : "pərˈsep·ʃən",
+				"synonym" : "Sense",
+				"link" : "perception.jpg"
+			},
+			{
+				"word" : "easy-going",
+				"transcription" : "iː.ziˈɡəʊ.ɪŋ",
+				"synonym" : "An easy-going attitude/manner. A friendly, easy-going type of guy",
+				"link" : "easy-going.jpg"
+			},
+			{
+				"word" : "prediction",
+				"transcription" : "prɪˈdɪk.ʃən",
+				"synonym" : "Prognosis",
+				"link" : "prediction.jpg"
+			},
+			{
+				"word" : "appearance",
+				"transcription" : "əˈpɪər·əns",
+				"synonym" : "Look",
+				"link" : "appearance.jpg"
+			},
+			{
+				"word" : "match",
+				"transcription" : "mætʃ",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "quite",
+				"transcription" : "",
+				"synonym" : "",
+				"link" : ""
+			},
+			{
+				"word" : "slim",
+				"transcription" : "slɪm",
+				"synonym" : "",
+				"link" : "slim.jpg"
+			},
+			{
+				"word" : "attractive",
+				"transcription" : "əˈtræk·tɪv",
+				"synonym" : "Beautiful",
+				"link" : "attractive.jpg"
 			}
 
 		],
@@ -1243,7 +1305,7 @@
 				"link" : ""
 			},
 			{
-				"word" : "fall fell fell",
+				"word" : "fall fell fallen",
 				"transcription" : "[fˈɔːl] [fˈel] [fˈɔːlən]",
 				"synonym" : "",
 				"link" : ""
