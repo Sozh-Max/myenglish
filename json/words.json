@@ -901,13 +901,13 @@
 		],
 		"lesson_12" : [
 			{
-				"word" : "Nurse",
+				"word" : "nurse",
 				"transcription" : "nɜrs",
 				"synonym" : "",
 				"link" : "nurse.jpg"
 			},
 			{
-				"word" : "Engine",
+				"word" : "engine",
 				"transcription" : "ˈen·dʒən",
 				"synonym" : "",
 				"link" : "engine.jpg"
@@ -945,7 +945,7 @@
 				"link" : "repair.jpg"
 			},
 			{
-				"word" : "Attitude",
+				"word" : "attitude",
 				"transcription" : "ˈæt̬·ɪˌtud",
 				"synonym" : "Start each day with a positive attitude",
 				"link" : ""
@@ -997,6 +997,63 @@
 				"transcription" : "əˈtræk·tɪv",
 				"synonym" : "Beautiful",
 				"link" : "attractive.jpg"
+			}
+
+		],
+		"lesson_14" : [
+			{
+				"word" : "attend",
+				"transcription" : "əˈtend",
+				"synonym" : "Visit",
+				"link" : "attend.jpg"
+			},
+			{
+				"word" : "attract",
+				"transcription" : "əˈtrækt",
+				"synonym" : "",
+				"link" : "attract.jpg"
+			},
+			{
+				"word" : "involve",
+				"transcription" : "ɪnˈvɑlv",
+				"synonym" : "Turn on, Engage",
+				"link" : ""
+			},
+			{
+				"word" : "attach",
+				"transcription" : "əˈtætʃ",
+				"synonym" : "",
+				"link" : "attach.jpg"
+			},
+			{
+				"word" : "pregnant",
+				"transcription" : "ˈpreɡ·nənt",
+				"synonym" : "",
+				"link" : "pregnant.jpg"
+			},
+			{
+				"word" : "carpet",
+				"transcription" : "ˈkɑr·pɪt",
+				"synonym" : "",
+				"link" : "carpet.jpg"
+			},
+			{
+				"word" : "couple",
+				"transcription" : "ˈkʌp·əl",
+				"synonym" : "",
+				"link" : "couple.jpg"
+			},
+			{
+				"word" : "infidelity",
+				"transcription" : "ˌɪn·fəˈdel·ɪ·t̬i",
+				"synonym" : "",
+				"link" : "infidelity.jpg"
+			},
+			{
+				"word" : "divorce",
+				"transcription" : "dɪˈvɔrs",
+				"synonym" : "",
+				"link" : "divorce.jpg"
 			}
 
 		],
